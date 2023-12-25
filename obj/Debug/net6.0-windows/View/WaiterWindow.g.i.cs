@@ -56,7 +56,7 @@ namespace УП2._0.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/УП2.0;V1.0.0.0;component/view/waiterwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/УП2.0;component/view/waiterwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\WaiterWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

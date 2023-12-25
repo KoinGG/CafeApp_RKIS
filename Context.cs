@@ -17,6 +17,7 @@ namespace УП2._0
         public DbSet<Post> Post { get; set; }
         public DbSet<Place> Place { get; set; }
         public DbSet<Dish> Dish { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Users>(x =>
@@ -35,6 +36,7 @@ namespace УП2._0
                 x.HasOne(x => x.Dishes).WithMany(x => x.Reserve).HasForeignKey(x => x.DishID);
             });
         }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseNpgsql($"Host=localhost;Port=5432;Database=UP2;Username=postgres;Password=hellofus");

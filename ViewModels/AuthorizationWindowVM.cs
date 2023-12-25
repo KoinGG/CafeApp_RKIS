@@ -34,7 +34,7 @@ namespace УП2._0.ViewModels
                     {
                         var password = (x as PasswordBox).Password;
                         var login = _login;
-                        //Context context = new Context();                        
+
                         var user = Helper.GetContext().Users.SingleOrDefault(x => x.Login == login && x.Password == password);
                         UserID = user.ID;
                         if (user != null)
