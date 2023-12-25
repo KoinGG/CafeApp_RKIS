@@ -1,0 +1,64 @@
+										AuthorizationWindowVM:
+using Microsoft.Toolkit.Mvvm.Input;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using УП2._0.Models;
+using УП2._0.View;
+
+namespace УП2._0.ViewModels
+{
+    public class AuthorizationWindowVM
+    {
+        public string? Login { get; set; }
+        public RelayCommand<object> LoginCommand
+        {
+            get => new RelayCommand<object>(x =>
+            {
+                var password = x as PasswordBox;
+                var user = Service.Db.Users.FirstOrDefault(u => u.Password == password.Password && u.Login == Login);
+                if (user != null)
+                {
+                    SignIn(user);
+                }
+            });
+        }
+
+        private void SignIn(Users user)
+        {
+            if (user.PostID == 2)
+            {
+
+            }
+            else if (user.PostID == 1)
+            {
+                CookerWindow cooker = new();
+                Application.Current.MainWindow.Close();
+                cooker.Show();
+            }
+        }
+    }
+}
+
+										Service.cs:
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace УП2._0.Models
+{
+    public static class Service
+    {
+        public static Context Db = new();
+    }
+}
+
+										<Button
+										    Command="LoginCommand"
+										

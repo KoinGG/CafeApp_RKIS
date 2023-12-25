@@ -1,0 +1,74 @@
+﻿<Window x:Class="УП2._0.View.CookerWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:УП2._0.View"
+        mc:Ignorable="d"
+        Title="CookerWindow" MinHeight="450" Height="450" MinWidth="670" Width="800">
+    <materialDesign:Card Padding="5" Margin="7" Background="{DynamicResource MaterialDesignPaper}">
+        <Grid>
+            <DataGrid 
+                Margin="0 0 150 0" 
+                SelectedItem="{Binding Order}"
+                ItemsSource="{Binding Orders}" 
+                AutoGenerateColumns="False" Grid.Row="1">
+                <DataGrid.Columns>
+                    <!--<DataGridTextColumn 
+                        Header="Состав Заказа" 
+                        Width="3*" 
+                        Binding="{Binding Reserve}"
+                        IsReadOnly="True" ></DataGridTextColumn>-->
+                    <DataGridTextColumn 
+                        Header="Состояние" 
+                        Width="*" 
+                        Binding="{Binding OrderStatus.OrderStatusName}"
+                        IsReadOnly="True" ></DataGridTextColumn>
+                    <DataGridTextColumn 
+                        Header="Время" 
+                        Width="*" 
+                        Binding="{Binding TimeOrder}"
+                        IsReadOnly="True" ></DataGridTextColumn>
+                </DataGrid.Columns>
+                <DataGrid.RowDetailsTemplate>
+                    <DataTemplate>
+                        <ListBox ItemsSource="{Binding Reserve}">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock
+                                                Margin="4 0 7 0"
+                                                Text="{Binding DishCount, StringFormat=' {0} шт.  —'}"></TextBlock>
+                                            <TextBlock
+                                                Text="{Binding Dishes.DishName}"></TextBlock>
+                                        </StackPanel>
+                                    </Grid>
+                                </DataTemplate>
+
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </DataTemplate>
+                </DataGrid.RowDetailsTemplate>
+            </DataGrid>
+            <Button 
+                Command="{Binding OrderStatusCooking}"
+                HorizontalAlignment="Right" VerticalAlignment="Top" 
+                Height="70" Width="130" 
+                Margin="0,45,10,0" Cursor="Hand" 
+                Content="Готовится" />
+            <Button 
+                Command="{Binding OrderStatusCooked}"
+                HorizontalAlignment="Right" VerticalAlignment="Top" 
+                Height="70" Width="130" 
+                Margin="0,140,10,0" Cursor="Hand"
+                Content="Готов" />
+            <!--<Button 
+                HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+                Height="50" Width="126" 
+                Margin="0,0,12,30" Cursor="Hand" 
+                Content="Подтвердить" />-->
+        </Grid>
+    </materialDesign:Card>
+</Window>

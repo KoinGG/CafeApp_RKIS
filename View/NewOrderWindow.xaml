@@ -1,0 +1,71 @@
+﻿<Window x:Class="УП2._0.View.NewOrderWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:УП2._0.View"
+        xmlns:viewModel="clr-namespace:УП2._0.ViewModels"
+        mc:Ignorable="d"
+        Title="NewOrderWindow" MinHeight="700" Height="700" MinWidth="900" Width="900">
+    <materialDesign:Card Padding="5" Margin="7" Background="{DynamicResource MaterialDesignPaper}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <materialDesign:PackIcon Kind="Barley" 
+                                     Height="50" Width="50" 
+                                     HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <TextBlock 
+                Text="Добавление Заказа" 
+                TextAlignment="Center" 
+                FontSize="32" />
+        </StackPanel>
+            <DataGrid
+                Grid.Row="1"
+                VerticalAlignment="Top" HorizontalAlignment="Left"
+                Height="Auto" Width="Auto" 
+                AutoGenerateColumns="False"
+                SelectedItem="{Binding Dish}" ItemsSource="{Binding Dishes}" >
+            <DataGrid.Columns>
+                <DataGridTextColumn
+                        HeaderStyle="{StaticResource DefaultHeader}"
+                        Header="Блюда в Наличии" 
+                        Width="*" 
+                        Binding="{Binding DishName}" IsReadOnly="True">                        
+                </DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <DataGrid 
+                Name="inOrder"
+                Grid.Row="1"
+                VerticalAlignment="Top" HorizontalAlignment="Left"
+                Height="Auto" Width="Auto"              
+                ItemsSource="{Binding DishInOrder}" 
+                AutoGenerateColumns="False" Grid.Column="1">
+                <DataGrid.Columns>
+                    <DataGridTextColumn                        
+                        HeaderStyle="{StaticResource DefaultHeader}"
+                        Header="Блюда в Заказе" 
+                        Width="*" 
+                        Binding="{Binding DishName}" IsReadOnly="True">                        
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button 
+                Command="{Binding AddOrderCommand}"
+                CommandParameter="{Binding ElementName=inOrder}"
+                Content="Добавить"
+                Height="50" Width="175"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom" Grid.Row="2" Margin="10"  Grid.ColumnSpan="2" />
+        </Grid>
+    </materialDesign:Card>
+</Window>

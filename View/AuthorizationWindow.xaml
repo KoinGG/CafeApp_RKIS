@@ -1,0 +1,46 @@
+﻿<Window x:Class="УП2._0.AuthorizationWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:УП2._0.ViewModels"
+        xmlns:local="clr-namespace:УП2._0"
+        mc:Ignorable="d"
+        Title="Авторизация" MinHeight="400" MinWidth="400" Height="400" Width="400">
+    <Window.DataContext>
+        <viewModel:AuthorizationWindowVM/>
+    </Window.DataContext>
+    <materialDesign:Card Padding="5" Margin="7" Background="{DynamicResource MaterialDesignPaper}">
+        <Grid>
+            <materialDesign:PackIcon Kind="Barley" 
+                                     Height="50" Width="50" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <TextBlock 
+                Text="Авторизация" 
+                TextAlignment="Center" 
+                HorizontalAlignment="Center" VerticalAlignment="Top" 
+                FontSize="32" Margin="0,50,0,0" />
+            <TextBox 
+                materialDesign:HintAssist.Hint="Введите Логин"                 
+                Height="30" Width="180" BorderThickness="0.25" Cursor="IBeam" 
+                Padding="7 5 0 0"
+                HorizontalAlignment="Center" VerticalAlignment="Top"
+                Text="{Binding Login}"
+                Margin="0,135,0,0" />
+            <PasswordBox
+                x:Name="PasswordBox"
+                materialDesign:HintAssist.Hint="Введите Пароль"
+                materialDesign:TextFieldAssist.HasClearButton="True"
+                HorizontalAlignment="Center" VerticalAlignment="Top" 
+                Padding="7 5 0 0"
+                Height="30" Width="180" BorderThickness="0.25" Cursor="IBeam" Margin="0,185,0,0" />
+            <Button 
+                Command="{Binding LoginCommand}"
+                CommandParameter="{Binding ElementName=PasswordBox}"
+                Content="Ok" 
+                Name="btn_Ok" 
+                HorizontalAlignment="Center" VerticalAlignment="Top"
+                Height="30" Width="124" Cursor="Hand" Margin="0,255,0,0" />
+        </Grid>
+    </materialDesign:Card>
+</Window>

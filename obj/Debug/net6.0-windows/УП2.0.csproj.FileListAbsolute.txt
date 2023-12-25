@@ -1,0 +1,328 @@
+C:\Users\gr602_stmti\source\repos\УП2.0\bin\Debug\net6.0-windows\УП2.0.exe
+C:\Users\gr602_stmti\source\repos\УП2.0\bin\Debug\net6.0-windows\УП2.0.deps.json
+C:\Users\gr602_stmti\source\repos\УП2.0\bin\Debug\net6.0-windows\УП2.0.runtimeconfig.json
+C:\Users\gr602_stmti\source\repos\УП2.0\bin\Debug\net6.0-windows\УП2.0.dll
+C:\Users\gr602_stmti\source\repos\УП2.0\bin\Debug\net6.0-windows\ref\УП2.0.dll
+C:\Users\gr602_stmti\source\repos\УП2.0\bin\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.AssemblyReference.cache
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.cache
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.lref
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.g.resources
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.AssemblyInfoInputs.cache
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.AssemblyInfo.cs
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.CoreCompileInputs.cache
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.dll
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\ref\УП2.0.dll
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\gr602_stmti\source\repos\УП2.0\obj\Debug\net6.0-windows\УП2.0.genruntimeconfig.cache
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\УП2.0.exe
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\УП2.0.deps.json
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\УП2.0.runtimeconfig.json
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\УП2.0.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\ref\УП2.0.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\УП2.0.pdb
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\App.g.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.cache
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.lref
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.g.resources
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.GeneratedMSBuildEditorConfig.editorconfig
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.AssemblyInfoInputs.cache
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.AssemblyInfo.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.CoreCompileInputs.cache
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.CopyComplete
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.dll
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\ref\УП2.0.dll
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.pdb
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.genruntimeconfig.cache
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+Z:\РКИС\УП2.0\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\App.baml
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\AuthorizationWindow.g.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\AuthorizationWindow.baml
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\CookerWindow.g.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\CookerWindow.baml
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\WaiterWindow.g.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\WaiterWindow.baml
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\NewOrderWindow.g.cs
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\View\NewOrderWindow.baml
+Z:\РКИС\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.AssemblyReference.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\УП2.0.exe
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\УП2.0.deps.json
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\УП2.0.runtimeconfig.json
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\УП2.0.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.AssemblyReference.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\AuthorizationWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\CookerWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\NewOrderWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\WaiterWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.lref
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\App.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\AuthorizationWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\CookerWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\NewOrderWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\View\WaiterWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.g.resources
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.AssemblyInfoInputs.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.AssemblyInfo.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.CoreCompileInputs.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.csproj.CopyComplete
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\refint\УП2.0.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\УП2.0.genruntimeconfig.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.0\obj\Debug\net6.0-windows\ref\УП2.0.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\УП2.0.exe
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\УП2.0.deps.json
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\УП2.0.runtimeconfig.json
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\УП2.0.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\ref\УП2.0.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\УП2.0.pdb
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\РКИС\УП2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.AssemblyReference.cache
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\AuthorizationWindow.g.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\CookerWindow.g.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\NewOrderWindow.g.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\WaiterWindow.g.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\App.g.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.cache
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.lref
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\App.baml
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\AuthorizationWindow.baml
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\CookerWindow.baml
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\NewOrderWindow.baml
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\View\WaiterWindow.baml
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.g.resources
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.GeneratedMSBuildEditorConfig.editorconfig
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.AssemblyInfoInputs.cache
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.AssemblyInfo.cs
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.CoreCompileInputs.cache
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.CopyComplete
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.dll
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\ref\УП2.0.dll
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.pdb
+Z:\РКИС\УП2.1\obj\Debug\net6.0-windows\УП2.0.genruntimeconfig.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.exe
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.deps.json
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.runtimeconfig.json
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.AssemblyReference.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\AuthorizationWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\CookerWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\NewOrderWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\WaiterWindow.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.lref
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\App.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\AuthorizationWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\CookerWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\NewOrderWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\WaiterWindow.baml
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.g.resources
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.AssemblyInfoInputs.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.AssemblyInfo.cs
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.CoreCompileInputs.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.CopyComplete
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\refint\УП2.0.dll
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.genruntimeconfig.cache
+C:\Users\veryh\source\repos\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\ref\УП2.0.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.exe
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.deps.json
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.runtimeconfig.json
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.AssemblyReference.cache
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\AuthorizationWindow.g.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\CookerWindow.g.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\NewOrderWindow.g.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\WaiterWindow.g.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.cache
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0_MarkupCompile.lref
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\App.baml
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\AuthorizationWindow.baml
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\CookerWindow.baml
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\NewOrderWindow.baml
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\View\WaiterWindow.baml
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.g.resources
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.AssemblyInfoInputs.cache
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.AssemblyInfo.cs
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.CoreCompileInputs.cache
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.csproj.CopyComplete
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\refint\УП2.0.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.pdb
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\УП2.0.genruntimeconfig.cache
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\obj\Debug\net6.0-windows\ref\УП2.0.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\koing\source\repos\C#\РКИС УП 2\УП2.1\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
